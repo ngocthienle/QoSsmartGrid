@@ -1,0 +1,3 @@
+package qossmartgrid;
+
+@license(LGPL);
